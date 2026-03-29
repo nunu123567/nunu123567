@@ -8,8 +8,11 @@ I enjoy **building creative, secure, and impactful digital solutions** and const
 ## 💻 Skills
 
 **Programming:** C, JavaScript, Java, SQL , Python 
+
 **Web Development:** HTML, CSS, JavaScript , React , TypeScript
+
 **Interests:** App Development, Cybersecurity, Game Development
+
 **Design & 3D Tools:** Figma, Blender
 
 ---
