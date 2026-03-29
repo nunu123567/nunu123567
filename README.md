@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Sanuji
+## Hello there 👋, I’m Sanuji
 
 I’m an **IT student** passionate about **web development, cloud engineering, and cybersecurity**.  
 I enjoy **building creative, secure, and impactful digital solutions** and constantly learning new technologies.
@@ -17,7 +17,7 @@ I enjoy **building creative, secure, and impactful digital solutions** and const
 
 ---
 
-## 📂 Projects
+## 📒 Projects
 
 Here are some projects I’ve built:
 
@@ -27,7 +27,7 @@ Here are some projects I’ve built:
 
 ---
 
-## 🚀 Goals
+## 👩‍💻 Goals
 
 - Build **more full-stack applications** with interactive UI/UX 
 - Expand **game development skills** and 3D modeling using Blender  
@@ -36,7 +36,7 @@ Here are some projects I’ve built:
 
 ---
 
-## 📫 How to reach me:
+## 📩 How to reach me:
 
 - LinkedIn: www.linkedin.com/in/sanuji-wimansa-gamagedara
 - Email: wimansasanuji@gmail.com
