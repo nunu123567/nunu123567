@@ -30,7 +30,7 @@ Here are some projects I’ve built:
 ## 👩‍💻 Goals
 
 - Build **more full-stack applications** with interactive UI/UX 
-- Expand **game development skills** and 3D modeling using Blender  
+- Expand **cyber security skills**
 - Improve **problem-solving and coding skills** every day  
 - Contribute to **open-source projects** and collaborate with other developers  
 
