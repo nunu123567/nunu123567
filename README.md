@@ -21,6 +21,7 @@ I enjoy **building creative, secure, and impactful digital solutions** and const
 
 Here are some projects I’ve built:
 - 🚀 **Diffie-Hellman AES Encryption Demo** – Python project demonstrating secure key exchange with Diffie-Hellman, and message encryption/decryption using AES (Fernet).
+- 🌐 Python Client-Server Application – Multithreaded TCP client-server application built with Python sockets and threading, demonstrating network communication, message protocols, and concurrent client handling.
 - 🚲 **Bike Rental App** – A full-stack application to rent bikes, built with HTML, CSS and JavaScript (UI designed in Figma)  
 - 🥗 **Salad Configurator** – Interactive app to build and customize salad bowls using React and TypeScript  
 - 🎁 **Gift Listing Application** – Desktop app built with Java Swing to manage gift items efficiently  
