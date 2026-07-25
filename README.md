@@ -20,6 +20,7 @@ I enjoy **building creative, secure, and impactful digital solutions** and const
 ## 📒 Projects
 
 Here are some projects I’ve built:
+- 🔍 **Python Port Scanner** – Multithreaded TCP SYN port scanner built with Python and Scapy. Features include port range scanning, open port detection, banner grabbing, service identification, and concurrent scanning using ThreadPoolExecutor.
 - 🚀 **Diffie-Hellman AES Encryption Demo** – Python project demonstrating secure key exchange with Diffie-Hellman, and message encryption/decryption using AES (Fernet).
 - 🌐 **Python Client-Server Application** – Multithreaded TCP client-server application built with Python sockets and threading, demonstrating network communication, message protocols, and concurrent client handling.
 - 🚲 **Bike Rental App** – A full-stack application to rent bikes, built with HTML, CSS and JavaScript (UI designed in Figma)  
